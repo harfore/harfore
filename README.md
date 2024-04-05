@@ -9,4 +9,4 @@
 - The [anime series](https://github.com/adatechschool/projet-collectif-dataviz-happy) of your dreams awaits you right after taking a short personality quiz.
 - Need a quick and easy distraction from your work ? We have the perfect [Chrome extension](https://github.com/adatechschool/extension-navigateur-extension_julie_tom_remi) for you.
 - Connect with your friends and share your thoughts on this [dynamic social media platform](https://github.com/adatechschool/reseau-social-php-zoe_remi_philippe).
-- Visit [The Flying Chairs](https://github.com/adatechschool/projet-plateforme-de-vente-de-meubles-leschaisesvolantes) website to find your next favorite furniture items!
+- Visit [The Flying Chairs](https://plateforme-vente-meubles-chaisesvolantes-front.vercel.app/) website to find your next favorite furniture items!
