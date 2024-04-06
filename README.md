@@ -7,5 +7,4 @@
 
 ## Check out my uploaded school projects :
 - The [anime series](https://github.com/adatechschool/projet-collectif-dataviz-happy) of your dreams awaits you right after taking a short personality quiz.
-- Connect with your friends and share your thoughts on this [dynamic social media platform](https://github.com/adatechschool/reseau-social-php-zoe_remi_philippe).
 - Visit [The Flying Chairs](https://plateforme-vente-meubles-chaisesvolantes-front.vercel.app/) website to find your next favorite furniture items!
