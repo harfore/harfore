@@ -7,4 +7,4 @@
 
 ## Check out my uploaded school projects :
 - The [anime series](https://harfore.github.io/HAPPY-PROJECT/) of your dreams awaits you right after taking a short personality quiz.
-- Visit [The Flying Chairs](https://plateforme-vente-meubles-chaisesvolantes-front.vercel.app/) website to find your next favorite furniture items!
+- Visit [Les Chaises Volantes](https://plateforme-vente-meubles-chaisesvolantes-front.vercel.app/) website to find your next favorite furniture items!
