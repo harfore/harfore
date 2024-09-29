@@ -1,7 +1,7 @@
 # Hi, I’m Rémi and i'm a web developer!
 - 🌱 I’m currently a student at Ada Tech School in Paris, learning various technologies and developing coding skills.
 - 💼 I seek a year-long apprenticeship as a front-end developer starting september 2024.
-- 🖥️ I'm mainly developing with JavaScript and HTML/CSS, while learning to use Python, PHP and React.
+- 🖥️ I'm mainly developing with JavaScript and React, while learning to use Python and PHP.
 - ❕ My hobbies include live music, travelling and video games.
 - 📨 You can reach me at remiharfoush@gmail.com and through my [LinkedIn profile](https://fr.linkedin.com/in/r%C3%A9mi-harfoush-440823255).
 
