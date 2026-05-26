@@ -1,6 +1,6 @@
 # Hi, I’m Rémi and i'm a student in software engineering!
 - 🖥️ I’m currently working studying at Ada Tech School in Paris, learning various technologies and developing coding skills.
-- 🌱 I previously interned at Inopakt and worked at SafeCloudBox where I was developing with Angular and Node.js.
+- 🌱 I previously interned at Inopakt and worked at SafeCloudBox where I was developing with Angular, React and Python.
 - ❕ My hobbies include live music, travelling and video games.
 - 📨 You can reach me at remiharfoush@gmail.com and through my [LinkedIn profile](https://fr.linkedin.com/in/r%C3%A9mi-harfoush-440823255).
 
